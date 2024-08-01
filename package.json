@@ -1,0 +1,27 @@
+{
+  "name": "magicdb",
+  "version": "1.0.0",
+  "description": "A short implementation of DB from CLI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goblin45/MagicDB.git"
+  },
+  "keywords": [
+    "magicdb",
+    "btree"
+  ],
+  "author": "goblin45",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goblin45/MagicDB/issues"
+  },
+  "homepage": "https://github.com/goblin45/MagicDB#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
